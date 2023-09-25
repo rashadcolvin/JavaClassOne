@@ -42,7 +42,7 @@ class LoopExample {
         }
         System.out.println("Sum of even numbers: " + evenSum);
 
-        // Question 7: Sum of two numbers given by the user
+        // Question 7: Sum of two numbers between two numbers given by the user
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the first number: ");
         int num1 = scanner.nextInt();
